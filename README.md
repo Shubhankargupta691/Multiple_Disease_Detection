@@ -1,4 +1,4 @@
-#HEALTH APP
+# Multiple Disease Detection
 
 ### Software And Tools Requirements
 
