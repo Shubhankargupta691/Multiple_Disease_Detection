@@ -1,0 +1,9 @@
+Flask
+pandas
+sklearn
+numpy
+matplotlib
+missingno
+seaborn
+joblib
+
