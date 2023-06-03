@@ -1,9 +1,12 @@
 Flask
 pandas
-sklearn
+scikit-learn
+catboost
+xgboost
 numpy
 matplotlib
 missingno
 seaborn
 joblib
 
+-e .
