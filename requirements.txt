@@ -8,5 +8,11 @@ matplotlib
 missingno
 seaborn
 joblib
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+tensorflow
+Pillow
 
 -e .
