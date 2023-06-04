@@ -12,3 +12,8 @@
 ```
 conda create -p venv python=3.10.9 -y
 ```
+### Install the requirements
+
+```
+pip install -r requirements.txt
+```
