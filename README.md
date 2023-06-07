@@ -17,3 +17,7 @@ conda create -p venv python=3.10.9 -y
 ```
 pip install -r requirements.txt
 ```
+
+Made by 
+[Shubhankar Gupta](https://github.com/Shubhankargupta691)
+[Saurabh Pandey](https://github.com/saurabhpandey20)
