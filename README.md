@@ -12,17 +12,16 @@
 ```
 conda create -p venv python=3.10.9 -y
 ```
+### Install the requirements
+
+```
+pip install -r requirements.txt
+```
 ### To Start WEBAPP:
 
 streamlit run [filename]
 ```
 streamlit run WEBAPP.py
-```
-
-### Install the requirements
-
-```
-pip install -r requirements.txt
 ```
 
 Made by:
