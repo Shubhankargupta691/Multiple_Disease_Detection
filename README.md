@@ -26,6 +26,4 @@ streamlit run WEBAPP.py
 
 Made by:
 
-1) [Shubhankar Gupta](https://github.com/Shubhankargupta691)
-
-2) [Saurabh Pandey](https://github.com/saurabhpandey20)
+[Shubhankar Gupta](https://github.com/Shubhankargupta691)
